@@ -12,7 +12,7 @@ export default class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
-          <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "6a28ec38f9174cc5851bfa530473936f"}'></script>
+          <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "042132fb29de4b02badee4a2b22bee17"}'></script>
           <script async defer src="https://us.gimp.zeronaught.com/__imp_apg__/js/f5cs-a_aa4NEjDc39-9fb27e6d.js" id="_imp_apg_dip_"  ></script>
         </body>
       </Html>
