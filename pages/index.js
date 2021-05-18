@@ -58,7 +58,7 @@ export default function Home() {
 
   return (
     <Layout>
-      <SEO title="All posts" />
+      <SEO title="Did I Do That Already? Ask the magic 8 ball!" />
       <Bio className="my-14" /> 
       <div dangerouslySetInnerHTML={{ __html: eightBall() }} ></div>
     </Layout>
