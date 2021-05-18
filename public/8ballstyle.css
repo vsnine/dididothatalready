@@ -1,7 +1,7 @@
 [v-cloak] {display: none}
 
 .container {
-    background-color: aliceblue;
+   /* background-color: aliceblue;*/
     padding: 2rem;
 }
 
@@ -31,6 +31,7 @@
 
 .eightBit p {
     font-size: 8rem;
+    color: black;
 }
 
 .centerBit {
