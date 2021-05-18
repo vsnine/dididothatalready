@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 import { Layout, Bio, SEO } from "@components/common";
-import { getSortedPosts } from "@utils/posts";
+//import { getSortedPosts } from "@utils/posts";
 
 export function eightBall() { 
   return  `        <div class="container">
@@ -67,7 +67,7 @@ export default function Home() {
 
 }
 
-export async function getStaticProps() {
+/* export async function getStaticProps() {
   const posts = getSortedPosts();
 
   return {
@@ -76,3 +76,4 @@ export async function getStaticProps() {
     },
   };
 }
+ */
