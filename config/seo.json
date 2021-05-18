@@ -1,15 +1,7 @@
 {
   "siteMetadata": {
-    "title": "vsnine.org",
-    "author": {
-      "name": "Joshua Becigneul",
-      "summary": "a technologist always learning. he/him"
-    },
-    "description": "A blog created with Next.js and Tailwind.css",
-    "siteUrl": "https://vsnine.org/",
-    "language": "en-US",
-    "social": {
-      "twitter": "vsnine"
-    }
+    "title": "Did I Do That Already?",
+    "siteUrl": "https://dididothatalready.com/",
+    "language": "en-US"
   }
 }

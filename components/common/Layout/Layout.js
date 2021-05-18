@@ -14,7 +14,8 @@ export function Layout({ children }) {
         <footer className="text-lg font-light">
           © {new Date().getFullYear()}, Built with{" "}
           <a href="https://nextjs.org/">Next.js</a>
-          &#128293;
+          &#128293;<br />
+          <a href="https://github.com/sinc0115/magic-8-ball">Magic 8 Ball by sinc0115</a>
         </footer>
       </div>
     </div>
@@ -69,7 +70,7 @@ const LargeTitle = () => (
           "dark:text-white"
         )}
       >
-        vsnine.org
+        Did I Do That Already?
       </a>
     </Link>
   </h1>
@@ -84,7 +85,7 @@ const SmallTitle = () => (
           "dark:text-white"
         )}
       >
-        vsnine.org
+        Did I Do That Already?
       </a>
     </Link>
   </h1>
